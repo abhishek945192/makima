@@ -19,29 +19,29 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.owner = ['919453192366']
+global.premium = ['919453192366']
+global.ownernomer = '919453192366'
+global.ownername = 'abhishek~💞'
+global.botname = 'Makima~💞'
+global.footer = '@mr.abhishek.x'
+global.ig = '@mr.abhishek.x'
+global.region = 'India, Uttar Pradesh, Lucknow'
+global.sc = 'https://github.com/abhishek945192/makima'
+global.myweb = 'youtube :- TITAN0009'
+global.packname = 'Makima~💞'
+global.author = 'abhishek~💞'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    admin: 'BAKA!! This Feature Is Only For Admin!',
+    botAdmin: 'BAKA!! Makima~💞 Must Be Admin First!',
+    owner: 'BAKA!! This Feature Is Only For abhishek~💞!',
+    group: 'BAKA!! Feature Used Only For Groups!',
+    private: 'BAKA!! Features Used Only For Private Chat!',
+    bot: 'BAKA!! This Feature Is Only For Makima~💞',
     wait: 'Wait A minute...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
